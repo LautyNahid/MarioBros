@@ -12,7 +12,6 @@ During the development of this project, several software development principles 
 
 ## Technologies Used
 - **Java**: Core language for the game.
-- **Swing and AWT**: For graphics rendering and game window management.
 - **Multithreading**: Ensures smooth movement and continuous game updates.
 <p></p>
 
